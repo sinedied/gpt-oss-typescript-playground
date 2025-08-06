@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/images/playground.png" alt="" align="center" height="128" />
+<img src="./docs/images/icon.png" alt="" align="center" height="128" />
 
 # gpt-oss TypeScript Playground
 
