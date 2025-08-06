@@ -115,7 +115,7 @@ Once your endpoint is deployed, you should be able to see your endpoint details 
 Then create a `.env` file in the root of the project and add the following content:
 
 ```env
-AZURE_AI_BASE_URL="https://<your-deployment-name>.<region>.models.services.azure.com/"
+AZURE_AI_BASE_URL="https://<your-deployment-name>.<region>.services.ai.azure.com/models"
 AZURE_AI_API_KEY="<your-api-key>"
 ```
 
