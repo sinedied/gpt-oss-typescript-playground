@@ -29,8 +29,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@azure-rest/ai-inference": "^1.0.0-beta.6",
-    "@azure/identity": "^4.11.1",
     "@langchain/openai": "^0.6.3",
     "@llamaindex/openai": "^0.4.15",
     "langchain": "^0.3.30",
